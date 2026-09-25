@@ -1,0 +1,10 @@
+A primary key is an attribute that uniquely identifies
+each record in a database.
+
+A foreign key is an attribute that references a primary key
+in another table and is used to create relationships between
+tables.
+
+An entity is something about which we store information.
+
+An attribute is a property or characteristic of an entity.

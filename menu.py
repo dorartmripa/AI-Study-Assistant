@@ -1,0 +1,17 @@
+def display_menu():
+    print()
+    print("╔══════════════════════════════════════╗") 
+    print("║         AI STUDY ASSISTANT           ║") 
+    print("╚══════════════════════════════════════╝")
+    print()
+    print('Options: ')
+    print("[1] Ask") 
+    print("[2] Summarise") 
+    print("[3] Quiz") 
+    print("[4] Flashcards") 
+    print("[5] Explain") 
+    print("[6] History") 
+    print("[7] Exit") 
+    print()
+
+    return int(input('Select -> '))
